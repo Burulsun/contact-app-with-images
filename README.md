@@ -9,7 +9,7 @@ Initial Look:
 
 Once you choose name it displays full information:
 
-![](Screenshots/ onceYouChooseName.jpeg)
+![](Screenshots/onceYouChooseName.jpeg)
 
 This is how the contact James young looks initially:
 
