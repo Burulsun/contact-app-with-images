@@ -16,9 +16,7 @@ This is how the contact James young looks initially:
 
 ![](Screenshots/JamesYoungInitial.jpeg )
 
-This is how James young looks after updates:
 
-![](Screenshots/JamesYoungUpdated.jpeg )
 
 This is how James young looks after updates:
 
@@ -34,6 +32,6 @@ Add contact:
 ![](Screenshots/SoulMateAdd.jpeg)
 
 New contact is in the list:
-SoulMateIntheList.jpeg 
+
 
 ![](Screenshots/SoulMateIntheList.jpeg )
